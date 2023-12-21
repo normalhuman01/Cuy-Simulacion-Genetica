@@ -1,19 +1,19 @@
 # Genetica-Cuyistica
 Simulación realista de la herencia genética en el Cavia porcellus (Cuy). Basado en las leyes postmendelianas
 
-![](https://github.com/Hecze/Genetica-Cuyistica/blob/main/readme/portada.jpg)
+![](https://github.com/normalhuman01/Genetica-Cuyistica/blob/main/readme/portada.jpg)
 
 ### 1. Dominancia incompleta: 
 
   Se da cuando un organismo heterocigoto presenta un fenotipo intermedio entre las dos características.
 
-  ![](https://github.com/Hecze/Genetica-Cuyistica/blob/main/readme/incompleta.jpg)
+  ![](https://github.com/normalhuman01/Genetica-Cuyistica/blob/main/readme/incompleta.jpg)
     
 ### 2. Codominancia: 
 
   Se presenta cuando en un individuo heterocigoto se manifiesta ambos genes al mismo tiempo.
 
-  ![](https://github.com/Hecze/Genetica-Cuyistica/blob/main/readme/codominancia.jpg)
+  ![](https://github.com/normalhuman01/Genetica-Cuyistica/blob/main/readme/codominancia.jpg)
   
 ### 3. Alelos múltiples:  
   Es cuando una característica genética tiene más de dos posibles manifestaciones.
@@ -24,7 +24,7 @@ Simulación realista de la herencia genética en el Cavia porcellus (Cuy). Basad
 
 Ademas siempré podras consultar la Cuypedia para mas información
 
-![](https://github.com/Hecze/Genetica-Cuyistica/blob/main/readme/cuypedia.jpg)
+![](https://github.com/normalhuman01/Genetica-Cuyistica/blob/main/readme/cuypedia.jpg)
 
 # Descargalo ya! 
 
