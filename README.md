@@ -1,4 +1,4 @@
-# Genetica-Cuyistica
+# Cuy Simulacion Genetica
 Simulación realista de la herencia genética en el Cavia porcellus (Cuy). Basado en las leyes postmendelianas
 
 ![](https://github.com/normalhuman01/Genetica-Cuyistica/blob/main/readme/portada.jpg)
